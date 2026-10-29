@@ -5,4 +5,9 @@ Sistema de gestion escolar desarrollado por StartupTech.
 ## Modulos
 - Estudiantes
 - Profesores
-- Calificaciones
+- Calificaciones / Trimestres
+- Penalizacion / observaciones
+- Asistencia
+- Citaciones
+- Materias
+- 
